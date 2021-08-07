@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Documents/Davenport-ProjGrad"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../03-JavaScript"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02-Advanced-CSS"
+	}
+}
