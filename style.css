@@ -10,7 +10,7 @@ html {
 body {
     flex-wrap: wrap;
     flex-direction: row;
-    background-image: url("/Solved/background.jpg");
+    background-image: url("/background.jpg");
     background-size: 2000px;
     background-attachment: fixed;
     width: 100%;
@@ -19,7 +19,7 @@ body {
 
 
 .header {
-    background-image: url("/Solved/background.jpg");
+    background-image: url("/background.jpg");
     height: 115px;
 }
 
@@ -306,7 +306,7 @@ footer > p {
     body {
         flex-wrap: wrap;
         flex-direction: row;
-        background-image: url("/Solved/background.jpg");
+        background-image: url("/background.jpg");
     }
    
     .headerlink{
