@@ -302,7 +302,7 @@ footer > p {
     body {
         flex-wrap: wrap;
         flex-direction: row;
-        background-image: url("/02-Homeworkbackground.jpg");
+        background-image: url("background.jpg");
     }
    
     .headerlink{
